@@ -1,5 +1,6 @@
 body{
-    background: url("https://github.com/firedreamer/firedreamer.github.io/raw/main/img/bg.webp")
+    background-color: #000;
+    background: url("https://github.com/firedreamer/firedreamer.github.io/raw/main/img/bg-01-d.png")
 }
 
 .social {
@@ -62,6 +63,12 @@ body{
      font-size: 72px;
 }
 
+.biggus{
+    font-size: 72px;
+}
 
+.dickus{
+    font-size: 48px;
+}
 
 
