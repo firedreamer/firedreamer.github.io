@@ -408,6 +408,7 @@ p {
   padding: 80px 70px;
   margin-top: 22px;
   margin-bottom: 41px;
+  border-bottom: 20px
 }
 
 #tmServices .tabs {
@@ -518,9 +519,11 @@ p {
 }
 
 .tm-testimonial-box {
+  align-content: center;
   padding: 50px 30px 20px;
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .slick-dots {
