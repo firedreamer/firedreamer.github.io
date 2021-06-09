@@ -511,8 +511,14 @@ p {
   margin-bottom: 63px;
 }
 
+.tm-pimg {
+    position: inherit;
+    align-self: center;
+  border-radius: 50%;
+}
+
 .tm-testimonial-box {
-  padding: 60px 30px 85px;
+  padding: 50px 30px 20px;
   margin-left: 20px;
   margin-right: 20px;
 }
