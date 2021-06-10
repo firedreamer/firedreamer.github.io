@@ -5,6 +5,7 @@
 
     display: block;
     box-sizing: border-box;
+    align-content: center;
 
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -24,7 +25,8 @@
 
     display: block;
     overflow: hidden;
-
+    justify-items: center;
+    align-content: center;
     margin: 0;
     padding: 0;
 }
@@ -103,6 +105,7 @@
 .slick-initialized .slick-slide
 {
     display: block;
+    align-content: center;
 }
 .slick-loading .slick-slide
 {
@@ -118,4 +121,8 @@
 }
 .slick-arrow.slick-hidden {
     display: none;
+}
+
+.col-12{
+    flex: 1 0 0;
 }

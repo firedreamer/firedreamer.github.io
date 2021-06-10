@@ -124,7 +124,7 @@ small {
 
 .tm-home-title {
 
-  font-size: 2.35rem;
+  font-size: 2.25rem;
   margin-bottom: 40px;
 }
 
@@ -163,6 +163,13 @@ small {
   max-width: 1260px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#tmFeaturesTeam {
+  padding-top: 68px;
+  padding-bottom: 60px;
+  margin-left: 20px;
+  margin-right: 10px;
 }
 
 .tm-feature-box {
@@ -492,6 +499,7 @@ p {
   padding-bottom: 90px;
   margin-left: -35px;
   margin-right: -35px;
+    align-content: space-between;
 }
 
 .tm-testimonials-header {
@@ -519,10 +527,10 @@ p {
 }
 
 .tm-testimonial-box {
-  align-content: center;
+  align-content: space-around;
   padding: 50px 30px 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 0;
+  margin-right: 0;
   margin-bottom: 20px;
 }
 
