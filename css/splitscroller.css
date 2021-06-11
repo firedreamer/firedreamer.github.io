@@ -28,6 +28,11 @@ caddy {
   justify-content: center;
   align-items: center;
 }
+
+.parallax-window {
+  min-height: 1100px;
+  background: transparent;
+}
 .wrapper.style1 {
 
 
