@@ -1,6 +1,7 @@
 body {
   background: url(../img/bg-01-d.png) no-repeat;
   background-size: cover;
+  resize: both;
   margin: 0;
   font-family: sans-serif;
 }
